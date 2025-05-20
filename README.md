@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rajesh A</h1>
-<h3 align="center">A passionate Software engineer. Also interested in Cyber security, Networking and Devops</h3>
+<h3 align="center">Full Stack Developer. Also interested in Cloud, AI, and Cyber security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh1308&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh1308" /> </p>
 
-- 🔭 I’m currently working on [pyHack-project](https://github.com/Rajesh1308/pyHack-project)
+- 🔭 I’m currently working as Full Stack Developer Intern at [RecurGrow](https://recurgrow.com/)
 
-- 🌱 I’m currently learning **React, IOT, AWS, Programming**
+- 🌱 I’m currently learning **Next.js, AWS, DSA**
 
-- 👯 I’m looking to collaborate on **Data pipeline for IOT device**
+- 👯 I’m looking to collaborate on building **Software applications that uses LLMs**
 
-- 📝 I regularly write articles on [https://medium.com/@rajesharulrathna](https://medium.com/@rajesharulrathna)
-
-- 💬 Ask me about **Networking, Docker, Python**
+- 💬 Ask me about **Next.js, Django, AWS, Docker, Python**
 
 - 📫 How to reach me **rajesharulprakash@gmail.com**
 
