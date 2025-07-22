@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajesh A</h1>
-<h3 align="center">Full Stack Developer. Also interested in Cloud, AI, and Cyber security</h3>
+<h3 align="center">Full Stack Developer. Also interested in Cloud, and GenAI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh1308&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh1308" /> </p>
 
 - 🔭 I’m currently working as Full Stack Developer Intern at [RecurGrow](https://recurgrow.com/)
 
-- 🌱 I’m currently learning **Next.js, AWS, DSA**
+- 🌱 I’m currently learning **Next.js, Django, AWS**
 
 - 👯 I’m looking to collaborate on building **Software applications that uses LLMs**
 
